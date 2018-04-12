@@ -1,5 +1,5 @@
-# [GFRNet](#)
-# [Learning Warped Guidance for Blind Face Restoration](#)
+# [GFRNet](https://github.com/csxmli2016/GFRNet/#)
+# [Learning Warped Guidance for Blind Face Restoration](https://github.com/csxmli2016/GFRNet/#)
 
 
 # Training
