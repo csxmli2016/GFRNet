@@ -11,6 +11,10 @@ Comming Soon.
 ```bash
 th test.lua
 ```
+# Models
+Download the pre-trained models with the following url and put it into ./checkpoints/FaceRestoration/
+- [BaiduDisk](#)
+- [GoogleDrive](#)
 
 # Requirements and Dependencies
 - Torch
