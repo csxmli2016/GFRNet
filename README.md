@@ -20,7 +20,7 @@ Download the pre-trained model with the following url and put it into ./checkpoi
 
 # Results
 ## Restoration on real low quality images
-The first row is real low quality image（close-up in right bottom is the guided image）. The second row is GFRNet result.
+The first row is real low quality image(close-up in right bottom is the guided image). The second row is GFRNet result.
 
 <img src="./imgs/realresults/1.jpg">
 
