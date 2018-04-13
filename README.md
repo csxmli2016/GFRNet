@@ -14,13 +14,13 @@ Comming Soon.
 th test.lua
 ```
 # Models
-Download the pre-trained models with the following url and put it into ./checkpoints/FaceRestoration/
+Download the pre-trained model with the following url and put it into ./checkpoints/FaceRestoration/
 - [BaiduDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
 - [GoogleDrive](#)
 
 # Results
 ## Restoration on real low quality images
-The first row is real low quality image and guided one. The second row is GFRNet result.
+The first row is real low quality image（close-up in right bottom is the guided image）. The second row is GFRNet result.
 
 <img src="./imgs/realresults/1.jpg">
 
