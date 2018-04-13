@@ -18,7 +18,7 @@ Download the pre-trained models with the following url and put it into ./checkpo
 
 # Requirements and Dependencies
 - Torch
-- [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0 & [cuDNN](https://developer.nvidia.com/cudnn) v-5.1
+- [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0
 - [stn](https://github.com/qassemoquab/stnbhwd)
 
 # Citation
