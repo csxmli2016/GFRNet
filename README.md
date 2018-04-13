@@ -1,5 +1,5 @@
 # [GFRNet](https://github.com/csxmli2016/GFRNet/#)
-# [Learning Warped Guidance for Blind Face Restoration](https://github.com/csxmli2016/GFRNet/#)
+ [Learning Warped Guidance for Blind Face Restoration](https://github.com/csxmli2016/GFRNet/#)
 
 # GFRNet framework
 <img src="./imgs/architecture/pipeline.png">
@@ -18,13 +18,17 @@ Download the pre-trained models with the following url and put it into ./checkpo
 - [BaiduDisk](#)
 - [GoogleDrive](#)
 
-#Results
+# Results
 ## Restoration on real low quality images
+
 <img src="./imgs/realresults/1.png">
+
 ## Warped guidance
+
 <img src="./imgs/warpface/warp.png">
 
 # Requirements and Dependencies
+
 - Torch
 - [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0
 - [stn](https://github.com/qassemoquab/stnbhwd)
