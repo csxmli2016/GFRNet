@@ -15,7 +15,7 @@ th test.lua
 ```
 # Models
 Download the pre-trained models with the following url and put it into ./checkpoints/FaceRestoration/
-- [BaiduDisk](#)
+- [BaiduDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
 - [GoogleDrive](#)
 
 # Results
