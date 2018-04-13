@@ -2,7 +2,7 @@
  [Learning Warped Guidance for Blind Face Restoration](https://github.com/csxmli2016/GFRNet/#)
 
 # GFRNet framework
-<img src="./imgs/architecture/pipeline.png">
+<img src="./imgs/architecture/pipeline.jpg">
 
 # Training
 
@@ -22,11 +22,11 @@ Download the pre-trained models with the following url and put it into ./checkpo
 ## Restoration on real low quality images
 The first row is real low quality images and guided image. The second row is GFRNet result.
 
-<img src="./imgs/realresults/1.png">
+<img src="./imgs/realresults/1.jpg">
 
 ## Warped guidance
 
-<img src="./imgs/warpface/warp.png">
+<img src="./imgs/warpface/warp.jpg">
 
 # Requirements and Dependencies
 
