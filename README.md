@@ -20,6 +20,7 @@ Download the pre-trained models with the following url and put it into ./checkpo
 
 # Results
 ## Restoration on real low quality images
+The first row is real low quality images and guided image. The second row is GFRNet result.
 
 <img src="./imgs/realresults/1.png">
 
