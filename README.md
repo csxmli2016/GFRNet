@@ -16,7 +16,7 @@ th test.lua
 # Models
 Download the pre-trained model with the following url and put it into ./checkpoints/FaceRestoration/
 - [BaiduDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
-- [GoogleDrive](#)
+- [GoogleDrive](https://drive.google.com/open?id=1PhE3Gi9-eHrofyR3LhqEhuVnzh9D7IsX)
 
 # Results
 ## Restoration on real low quality images
