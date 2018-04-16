@@ -1,5 +1,5 @@
 # [GFRNet](https://arxiv.org/abs/1804.04829)
- [Learning Warped Guidance for Blind Face Restoration](https://arxiv.org/abs/1804.04829)
+ Torch implementation for [Learning Warped Guidance for Blind Face Restoration](https://arxiv.org/abs/1804.04829)
 
 # GFRNet framework
 <img src="./imgs/architecture/pipeline.jpg">
