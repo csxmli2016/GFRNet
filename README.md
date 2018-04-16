@@ -1,5 +1,5 @@
-# [GFRNet](https://github.com/csxmli2016/GFRNet/#)
- [Learning Warped Guidance for Blind Face Restoration](https://github.com/csxmli2016/GFRNet/#)
+# [GFRNet](https://arxiv.org/abs/1804.04829)
+ [Learning Warped Guidance for Blind Face Restoration](https://arxiv.org/abs/1804.04829)
 
 # GFRNet framework
 <img src="./imgs/architecture/pipeline.jpg">
@@ -42,8 +42,3 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 Code borrows heavily from [pix2pix](https://github.com/phillipi/pix2pix). Thanks for their excellent work!
 
-# Citation
-
-```
-
-```
