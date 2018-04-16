@@ -36,7 +36,7 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 - [Torch](https://github.com/torch/distro)
 - [Cuda](https://developer.nvidia.com/cuda-toolkit-archive)-8.0
-- [stn](https://github.com/qassemoquab/stnbhwd)
+- [Stn](https://github.com/qassemoquab/stnbhwd)
 
 # Acknowledgments
 
