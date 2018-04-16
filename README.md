@@ -30,7 +30,7 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 ## IMDB results
 
-[More real resutls can be found here]((http://csxmli.xin/GFRNet/))
+[More real resutls can be found here](http://csxmli.xin/GFRNet/)
 
 # Requirements and Dependencies
 
