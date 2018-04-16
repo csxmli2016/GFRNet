@@ -15,7 +15,7 @@ th test.lua
 ```
 # Models
 Download the pre-trained model with the following url and put it into ./checkpoints/FaceRestoration/
-- [BaiduDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
+- [BaiduNetDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
 - [GoogleDrive](https://drive.google.com/open?id=1PhE3Gi9-eHrofyR3LhqEhuVnzh9D7IsX)
 
 # Results
@@ -28,7 +28,9 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 <img src="./imgs/warpface/warp.jpg">
 
-## [IMDB results](http://csxmli.xin/GFRNet/)
+## [IMDB results]
+
+More real resutls can be found here[]((http://csxmli.xin/GFRNet/))
 
 # Requirements and Dependencies
 
