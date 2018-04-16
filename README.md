@@ -28,6 +28,8 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 <img src="./imgs/warpface/warp.jpg">
 
+## [IMDB results](http://csxmli.xin/GFRNet/)
+
 # Requirements and Dependencies
 
 - Torch
