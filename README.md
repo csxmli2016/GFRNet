@@ -14,7 +14,7 @@ Comming Soon.
 th test.lua
 ```
 # Models
-Download the pre-trained model with the following url and put it into ./checkpoints/FaceRestoration/
+Download the pre-trained model with the following url and put it into ./checkpoints/FaceRestoration/.
 - [BaiduNetDisk](https://pan.baidu.com/s/1q96l3qmTf5Luh-nlqot6Xw)
 - [GoogleDrive](https://drive.google.com/open?id=1PhE3Gi9-eHrofyR3LhqEhuVnzh9D7IsX)
 
