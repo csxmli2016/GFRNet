@@ -2,6 +2,8 @@
  Torch implementation for [Learning Warped Guidance for Blind Face Restoration](https://arxiv.org/abs/1804.04829)
 
 # GFRNet framework
+Overview of our GFRNet. The <B>WarpNet</B> takes the degraded observation and guided image as input to predict the dense flow field, which is adopted to deform guided image to the warped guidance. Warped guidance is expected to be spatially well aligned with ground-truth. Thus the <B>RecNet</B> takes warped guidance and degradated observation as input to produce the restoration result.
+
 <img src="./imgs/architecture/pipeline.jpg">
 
 # Training
