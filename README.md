@@ -29,8 +29,10 @@ The first row is real low quality image(close-up in right bottom is the guided i
 <img src="./imgs/warpface/warp.jpg">
 
 ## IMDB results
+|      Input      | Guided Image | Bicubic |   Ours  |
+|   <img src='./imgs/IMDb/1_2.jpg'>  |<img src='./imgs/IMDb/1_1.jpg'> | <img src='./imgs/IMDb/1_3.jpg'> |   <img src='./imgs/IMDb/1_4.jpg'>    |
 
-[IMDB resutls can be found here.](http://csxmli.xin/GFRNet/)
+[More IMDB resutls can be found here.](http://csxmli.xin/GFRNet/)
 
 # Requirements and Dependencies
 
