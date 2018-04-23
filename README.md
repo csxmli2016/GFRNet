@@ -29,9 +29,7 @@ The first row is real low quality image(close-up in right bottom is the guided i
 <img src="./imgs/warpface/warp.jpg">
 
 ## IMDB results
-<div align="center">
- 
- <table>
+ <table  align="center">
  <tr>
   <td>Input</td><td>Guided Image</td><td>Bicubic</td><td>GFRNet Results</td>
  </tr>
@@ -49,8 +47,21 @@ The first row is real low quality image(close-up in right bottom is the guided i
    <img src='./imgs/IMDb/1_4.jpg'>
   </td>
   </tr>
+  <tr>
+  <td>
+   <img src='./imgs/IMDb/2_2.jpg' >
+  </td>
+  <td>
+  <img src='./imgs/IMDb/2_1.jpg'>
+  </td>
+  <td>
+   <img src='./imgs/IMDb/2_3.jpg'>
+  </td>
+  <td>
+   <img src='./imgs/IMDb/2_4.jpg'>
+  </td>
+  </tr>
  </table>
- </div>
 [More IMDB resutls can be found here.](http://csxmli.xin/GFRNet/)
 
 # Requirements and Dependencies
