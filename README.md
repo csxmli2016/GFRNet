@@ -31,7 +31,7 @@ The first row is real low quality image(close-up in right bottom is the guided i
 ## IMDB results
  <table style="float:center">
  <tr>
-  <td><B>Input</td><td>Guided Image</td><td>Bicubic</td><td>GFRNet Results<B></td>
+  <th><B>Input</B></th><th><B>Guided Image</B></th><th><B>Bicubic</B></th><th><B>GFRNet Results</B></th>
  </tr>
  <tr>
   <td>
