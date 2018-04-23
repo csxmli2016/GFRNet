@@ -29,9 +29,9 @@ The first row is real low quality image(close-up in right bottom is the guided i
 <img src="./imgs/warpface/warp.jpg">
 
 ## IMDB results
- <table  align="center">
+ <table style="float:center">
  <tr>
-  <td>Input</td><td>Guided Image</td><td>Bicubic</td><td>GFRNet Results</td>
+  <td><B>Input</td><td>Guided Image</td><td>Bicubic</td><td>GFRNet Results<B></td>
  </tr>
  <tr>
   <td>
