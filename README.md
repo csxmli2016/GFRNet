@@ -29,6 +29,7 @@ The first row is real low quality image(close-up in right bottom is the guided i
 <img src="./imgs/warpface/warp.jpg">
 
 ## IMDB results
+The content marked with green box is the restoration results by our GFRNet. All of these images are collected from [Internet Movie Database (IMDb)](https://www.imdb.com/). More IMDB resutls can be found [here](http://csxmli.xin/GFRNet/).
  <table style="float:center">
  <tr>
   <th><B>Input</B></th><th><B>Guided Image</B></th><th><B>Bicubic</B></th><th><B>GFRNet Results</B></th>
@@ -63,7 +64,6 @@ The first row is real low quality image(close-up in right bottom is the guided i
   </tr>
  </table>
  
-[More IMDB resutls can be found here.](http://csxmli.xin/GFRNet/)
 
 # Requirements and Dependencies
 
