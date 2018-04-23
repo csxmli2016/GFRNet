@@ -30,7 +30,25 @@ The first row is real low quality image(close-up in right bottom is the guided i
 
 ## IMDB results
 <div align="center">
-<img src='./imgs/IMDb/1_2.jpg'>  <img src='./imgs/IMDb/1_1.jpg'>  <img src='./imgs/IMDb/1_3.jpg'>  <img src='./imgs/IMDb/1_4.jpg'> 
+ 
+ <table>
+ <tr>
+  <td>Input</td><td>Guided Image</td><td>Bicubic</td><td>GFRNet Results</td>
+ </tr>
+ <tr>
+  <td>
+   <img src='./imgs/IMDb/1_2.jpg' >
+  </td>
+  <td>
+  <img src='./imgs/IMDb/1_1.jpg'>
+  </td>
+  <td>
+   <img src='./imgs/IMDb/1_3.jpg'>
+  </td>
+  <td>
+   <img src='./imgs/IMDb/1_4.jpg'>
+  </td>
+  </tr>
  </div>
 [More IMDB resutls can be found here.](http://csxmli.xin/GFRNet/)
 
