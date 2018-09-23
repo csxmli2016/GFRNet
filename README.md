@@ -67,6 +67,8 @@ The content marked with green box is the restoration results by our GFRNet. All 
  </table>
  
  [More IMDB resutls can be found here](http://csxmli.xin/GFRNet/).
+ [Supplementary materials can be found here](http://csxmli.xin/GFRNet/supp.pdf).
+ [Poster can be found heare](http://csxmli.xin/GFRNet/poster.pdf).
 
 # Requirements and Dependencies
 
@@ -77,3 +79,15 @@ The content marked with green box is the restoration results by our GFRNet. All 
 # Acknowledgments
 
 Code borrows heavily from [pix2pix](https://github.com/phillipi/pix2pix). Thanks for their excellent work!
+
+# Citation
+
+```
+@InProceedings{Li_2018_ECCV,
+author = {Li, Xiaoming and Liu, Ming and Ye, Yuting and Zuo, Wangmeng and Lin, Liang and Yang, Ruigang},
+title = {Learning Warped Guidance for Blind Face Restoration},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
+```
