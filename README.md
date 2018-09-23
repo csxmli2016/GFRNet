@@ -67,7 +67,6 @@ The content marked with green box is the restoration results by our GFRNet. All 
  </table>
  
 - [More IMDB resutls can be found here](http://csxmli.xin/GFRNet/).
-- [Supplementary materials can be found here](http://csxmli.xin/GFRNet/supp.pdf).
 - [Poster can be found heare](http://csxmli.xin/GFRNet/poster.pdf).
 
 # Requirements and Dependencies
