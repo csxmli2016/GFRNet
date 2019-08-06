@@ -7,9 +7,7 @@ Overview of our GFRNet. The <B>WarpNet</B> takes the degraded observation and gu
 <img src="./imgs/architecture/pipeline.jpg">
 
 # Training
-<div style='display: none'>
-Pytorch implementation of <B>WarpNet</B> (the first subnet of GFRNet) can be found [here](https://github.com/csxmli2016/GFRNet_WarpNet).
- </div>
+
  Coming soon.
 
 # Testing
