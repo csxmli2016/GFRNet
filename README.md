@@ -6,9 +6,6 @@ Overview of our GFRNet. The <B>WarpNet</B> takes the degraded observation and gu
 
 <img src="./imgs/architecture/pipeline.jpg">
 
-# Training
-
- Coming soon.
 
 # Testing
 
